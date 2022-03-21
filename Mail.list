@@ -1,0 +1,8 @@
+# 解决 iOS Mail App 收件问题
+DOMAIN-SUFFIX,imap-mail.outlook.com,Mail
+DOMAIN-SUFFIX,imap.gmail.com,Mail
+DOMAIN-SUFFIX,outlook.office365.com,Mail
+DOMAIN-SUFFIX,pop.gmail.com,Mail
+DOMAIN-SUFFIX,smtp-mail.outlook.com,Mail
+DOMAIN-SUFFIX,smtp.gmail.com,Mail
+DOMAIN-SUFFIX,smtp.office365.com,Mail
