@@ -13,8 +13,8 @@ HOST-SUFFIX,doubleclick.tv002.com,Advertising
 HOST-SUFFIX,vungle.com,Advertising
 HOST-SUFFIX,applovin.com,Advertising
 HOST-SUFFIX,applvn.com,Advertising
-#HOST-SUFFIX,app-measurement.com,Advertising
-#HOST-SUFFIX,measurementapi.com,Advertising
-#HOST-SUFFIX,measurementaz.com,Advertising
-
-
+HOST-SUFFIX,app-measurement.com,Advertising
+HOST-SUFFIX,measurementapi.com,Advertising
+HOST-SUFFIX,measurementaz.com,Advertising
+HOST-SUFFIX,flurry.cachefly.net,Advertising
+HOST-SUFFIX,flurry.com,Advertising
